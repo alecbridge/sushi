@@ -1,0 +1,28 @@
+{
+  "name": "sushi",
+  "version": "1.0.0",
+  "description": "The sushi menu for our new restaurant.",
+  "main": "js/index.js",
+  "dependencies": {
+    "cutestrap": "^1.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alecbridge/sushi.git"
+  },
+  "keywords": [
+    "sushi",
+    "menu",
+    "restaurant"
+  ],
+  "author": "Alec Bridge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alecbridge/sushi/issues"
+  },
+  "homepage": "https://github.com/alecbridge/sushi#readme"
+}
